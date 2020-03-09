@@ -2,25 +2,25 @@
   "groups": [
     {
       "name": "myredis",
-      "type": "com.imooc.miaosha.redis.RedisConfig",
-      "sourceType": "com.imooc.miaosha.redis.RedisConfig"
+      "type": "com.antzuhl.miaosha.redis.RedisConfig",
+      "sourceType": "com.antzuhl.miaosha.redis.RedisConfig"
     }
   ],
   "properties": [
     {
       "name": "myredis.host",
       "type": "java.lang.String",
-      "sourceType": "com.imooc.miaosha.redis.RedisConfig"
+      "sourceType": "com.antzuhl.miaosha.redis.RedisConfig"
     },
     {
       "name": "myredis.password",
       "type": "java.lang.String",
-      "sourceType": "com.imooc.miaosha.redis.RedisConfig"
+      "sourceType": "com.antzuhl.miaosha.redis.RedisConfig"
     },
     {
       "name": "myredis.port",
       "type": "java.lang.Integer",
-      "sourceType": "com.imooc.miaosha.redis.RedisConfig",
+      "sourceType": "com.antzuhl.miaosha.redis.RedisConfig",
       "defaultValue": 0
     }
   ],
