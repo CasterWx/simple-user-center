@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8eb2dd4-af70-4682-8e98-c81497ad79aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="antzms: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqFCLjeTIeuES3VucCyRy1baoh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/QingShuSchoolPlatform/QingShuSchoolPlatform" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.miaosha.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\miaosha_1\src\main\resources\templates" />
+      <recent name="G:\miaosha_1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.miaosha.util.MD5Util" />
+      <module name="simple-user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.miaosha.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="simple-user-center" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="simple-user-center" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="simple-user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.miaosha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7c4f37bc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8eb2dd4-af70-4682-8e98-c81497ad79aa" name="Default Changelist" comment="" />
+      <created>1583662088235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583662088235</updated>
+      <workItem from="1583662096411" duration="8142000" />
+      <workItem from="1583729565562" duration="2467000" />
+      <workItem from="1583734987350" duration="22546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583668891610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583668891610" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1583764079435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583764079435" />
+    <state x="548" y="296" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583752782716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="296" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583752782716" />
+    <state x="457" y="373" width="964" height="449" key="#xdebugger.evaluate" timestamp="1583763184179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="373" width="964" height="449" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1583763184179" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583758673223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583758673223" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1583764408641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583764408641" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1583764408641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583764408641" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1583764408641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583764408641" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1583764408641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583764408641" />
+    <state width="1493" height="205" key="GridCell.Tab.1.bottom" timestamp="1583764408638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583764408638" />
+    <state width="1493" height="205" key="GridCell.Tab.1.center" timestamp="1583764408638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583764408638" />
+    <state width="1493" height="205" key="GridCell.Tab.1.left" timestamp="1583764408638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583764408638" />
+    <state width="1493" height="205" key="GridCell.Tab.1.right" timestamp="1583764408638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583764408638" />
+    <state width="1493" height="258" key="GridCell.Tab.2.bottom" timestamp="1583763972275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583763972275" />
+    <state width="1493" height="258" key="GridCell.Tab.2.center" timestamp="1583763972275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1583763972275" />
+    <state width="1493" height="258" key="GridCell.Tab.2.left" timestamp="1583763972275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1583763972275" />
+    <state width="1493" height="258" key="GridCell.Tab.2.right" timestamp="1583763972275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1583763972275" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1583741487545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1583741487545" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583735001329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583735001329" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1583741139271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583741139271" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1583662138540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583662138540" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/RedisService.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/LoginController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/UserService.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/UserService.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/RegistorController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/RegistorController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/imooc/miaosha/util/MD5Util.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

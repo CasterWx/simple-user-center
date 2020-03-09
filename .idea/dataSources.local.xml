@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="647700bd-5a74-4cec-ada2-b2ea3fcc3817">
+      <database-info product="MySQL" version="8.0.12" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="8.0.12" exact-driver-version="8.0">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="ann" />
+            <name qname="antz_acg" />
+            <name qname="behavior" />
+            <name qname="bpartner_nzw" />
+            <name qname="global" />
+            <name qname="hexo-blog" />
+            <name qname="information_schema" />
+            <name qname="leaf" />
+            <name qname="mv_db" />
+            <name qname="mysql" />
+            <name qname="npdb" />
+            <name qname="operation" />
+            <name qname="performance_schema" />
+            <name qname="sys" />
+            <name qname="antzms" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="MySQL - @localhost [2]" uuid="6bddc267-a97d-4bfa-8bc3-047c05315ef9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
